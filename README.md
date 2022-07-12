@@ -1,3 +1,7 @@
+# DEPLOYMENT LINK:
+https://sentiment-analysis97.herokuapp.com/
+
+
 # Sentiment Analysis of Customers:
 Problem statement: We had to collect reviews for iPhone 4s model. We had to analyse those reviews and build a webapp which will give us sentiment for a particular comment or review.
 
@@ -11,8 +15,6 @@ Data is collected from various sites. All the required tasks to prepare the data
 # WEBPAGE & DEPLOYMENT : 
 Created a web application using streamlit API that takes all the necessary inputs from the user & shows the output. Then deployed project on the Heroku Platform.
 
-# DEPLOYMENT LINK:
-https://sentiment-analysis97.herokuapp.com/
 
 # WEB INTERFACE :
 ##### POSITIVE SENTIMENT:
